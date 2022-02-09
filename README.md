@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning in ilmhona
 - 💞️ I want to working company
-- 📫 How to reach me ...
+- 📫 my acсount in instagram https://www.instagram.com/fanimate_x/
 
 <!---
 HamzaNabiev/HamzaNabiev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
